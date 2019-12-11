@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ChangeLanguage in Italy</string>
+    <string name="welcome">BENVENUTO</string>
+    <string name="login">Accesso</string>
+    <string name="passwd">Password</string>
+    <string name="email">Email</string>
+    <string name="signup">Non hai un account? Iscriviti!</string>
+    <string name="changeLang">Cambia lingua</string>
+</resources>
